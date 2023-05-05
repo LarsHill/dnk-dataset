@@ -46,7 +46,7 @@ checklist:  # Dict
 ```
 
 We publish this data set under the MIT license.
-If you use make use of it in your research, please consider citing.
+If you make use of it in your research, please consider citing.
 ```
 @article{sustain_ai2023,
   title = {sustain.AI: a Recommender System to analyze Sustainability Reports},
